@@ -25,7 +25,7 @@ SECRET_KEY = 'ql&-10b8$h40g03@t7yvx2jt#1pnzsts*mt!83xywrpu4*w=@t'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['zapa.pythonanywhere.com','127.0.0.1']
 
 
 # Application definition
